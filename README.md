@@ -19,7 +19,7 @@ This is a repository of some of the resources that I used that helped me learn, 
 10. [JS Algorithms & Data Structures Projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects)
 
 ### Cool Tools
-... 1. RegExr: I'll be honest, RegExp is not my favorite and is definitely something I need a refresher on from time to time. Though FCC's course included a unit on Regular Expressions, for some reason, I had trouble retaining the information so I searched for a tool that made it easier and simpler to learn and understand it. I am pleased to announce I found a super cool one called [RegExr](https://regexr.com/), made by Grant Skinner (check out his repo [here](https://github.com/gskinner/regexr/))! I strongly advise you all to check this out!
+1. RegExr: I'll be honest, RegExp is not my favorite and is definitely something I need a refresher on from time to time. Though FCC's course included a unit on Regular Expressions, for some reason, I had trouble retaining the information so I searched for a tool that made it easier and simpler to learn and understand it. I am pleased to announce I found a super cool one called [RegExr](https://regexr.com/), made by Grant Skinner (check out his repo [here](https://github.com/gskinner/regexr/))! I strongly advise you all to check this out!
 
 ### My Favorite YouTubers
 Being a visual and neurotic learner, I find video lectures and tutorials to be very effective in learning. I have listed all of my favorite YouTubers below who helped me hone in on certain concepts on which I had trouble wrapping my head around.
