@@ -7,25 +7,25 @@ This is a repository of some of the resources that I used that helped me learn, 
 ### FreeCodeCamp
 #### Completed Courses : [Javascript Data Structures & Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 ##### Concepts
-... 1. [Basic JS](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
-... 2. [ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
-... 3. [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions)
-... 4. [Debugging](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#debugging)
-... 5. [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures)
-... 6. [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting)
-... 7. [Object Oriented Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming)
-... 8. [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
-... 9. [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting)
-... 10. [JS Algorithms & Data Structures Projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects)
+1. [Basic JS](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
+2. [ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
+3. [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#regular-expressions)
+4. [Debugging](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#debugging)
+5. [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures)
+6. [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting)
+7. [Object Oriented Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#object-oriented-programming)
+8. [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming)
+9. [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting)
+10. [JS Algorithms & Data Structures Projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects)
 
 ### Cool Tools
 ... 1. RegExr: I'll be honest, RegExp is not my favorite and is definitely something I need a refresher on from time to time. Though FCC's course included a unit on Regular Expressions, for some reason, I had trouble retaining the information so I searched for a tool that made it easier and simpler to learn and understand it. I am pleased to announce I found a super cool one called [RegExr](https://regexr.com/), made by Grant Skinner (check out his repo [here](https://github.com/gskinner/regexr/))! I strongly advise you all to check this out!
 
 ### My Favorite YouTubers
 Being a visual and neurotic learner, I find video lectures and tutorials to be very effective in learning. I have listed all of my favorite YouTubers below who helped me hone in on certain concepts on which I had trouble wrapping my head around.
-... 1. [DevEd](https://www.youtube.com/c/DevEd)  
-... 2. [WebDevSimplified](https://www.youtube.com/c/WebDevSimplified)
-... 3. [FreeCodeCamp](https://www.youtube.com/c/Freecodecamp)
+1. [DevEd](https://www.youtube.com/c/DevEd)  
+2. [WebDevSimplified](https://www.youtube.com/c/WebDevSimplified)
+3. [FreeCodeCamp](https://www.youtube.com/c/Freecodecamp)
 
 
 
