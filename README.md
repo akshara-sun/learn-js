@@ -22,7 +22,7 @@ This is a repository of some of the resources that I used that helped me learn, 
 1. RegExr: I'll be honest, RegExp is not my favorite and is definitely something I need a refresher on from time to time. Though FCC's course included a unit on Regular Expressions, for some reason, I had trouble retaining the information so I searched for a tool that made it easier and simpler to learn and understand it. I am pleased to announce I found a super cool one called [RegExr](https://regexr.com/), made by Grant Skinner (check out his repo [here](https://github.com/gskinner/regexr/))! I strongly advise you all to check this out!
 
 ### My Favorite YouTubers
-Being a visual and neurotic learner, I find video lectures and tutorials to be very effective in learning. I have listed all of my favorite YouTubers below who helped me hone in on certain concepts on which I had trouble wrapping my head around.
+Being a visual and neurotic learner, I find video lectures and tutorials to be very effective in learning. I have listed all of my favorite YouTubers below who helped me hone in on certain concepts around which I had trouble wrapping my head.
 1. [DevEd](https://www.youtube.com/c/DevEd)  
 2. [WebDevSimplified](https://www.youtube.com/c/WebDevSimplified)
 3. [FreeCodeCamp](https://www.youtube.com/c/Freecodecamp)
