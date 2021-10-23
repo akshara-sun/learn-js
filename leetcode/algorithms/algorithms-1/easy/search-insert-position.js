@@ -9,6 +9,15 @@ You must write an algorithm with O(log n) runtime complexity.
  * @return {number}
  */
 
+//Most optimal solution:
+var searchInsert = function(nums, target) {
+    for(let i = 0; i < nums.length; i++) {
+        if (target <= nums[i]) {
+            return i;
+        }
+    }
+    return nums.length;
+}
 
 //Naively implemented solution
 // var searchInsert = function(nums, target) {
@@ -21,14 +30,3 @@ You must write an algorithm with O(log n) runtime complexity.
 //     nums.sort((a,b) => a-b)
 //     return nums.indexOf(target);
 // };
-
-
-//Most optimal solution:
-var searchInsert = function(nums, target) {
-    for(let i = 0; i < nums.length; i++) {
-        if (target <= nums[i]) {
-            return i;
-        }
-    }
-    return nums.length;
-}
