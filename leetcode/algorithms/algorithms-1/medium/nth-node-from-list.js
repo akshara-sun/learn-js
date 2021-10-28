@@ -14,6 +14,7 @@
  * @return {ListNode}
  */
 
+//Solution - n = size of list, k = k from n; runtime = O(n), space complexity O(1)
  function getLengthOfList (head) {
     let count = 0;
     for (let curr = head; curr !== null; curr = curr.next) {
