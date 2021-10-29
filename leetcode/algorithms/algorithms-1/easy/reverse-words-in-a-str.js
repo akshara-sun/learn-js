@@ -5,23 +5,20 @@
  * @return {string}
  */
 
-//Helper function that reverses a string 
+//Helper function that reverses a string
+//Runtime - O(n) where n = length of input 
 var reverseString = function(s) {
-    let temp = ""
-    for (let i = s.length - 1; i >= 0; i--) {
-      temp += s[i]
-    }
-    return temp;
+    s = s.split("").reverse().join("");
+    return s;
   };
   
   //Runtime = O(n)
   var reverseWords = function(s) {
       s = s.split(" ");
       let word = ""
-      let newArr = [];
+      let resArr = [];
       for (let i = 0; i < s.length; i++) {
-          word = word.concat(reverseString(s[i]), " ")
+          resArr.push(reverseString(s[i]))
       }
-      word = word.trim()
-      return word;
+      return resArr.join(" ");
   };
