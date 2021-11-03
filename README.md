@@ -18,6 +18,11 @@ This is a repository of some of the resources that I used that helped me learn, 
 9. [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting)
 10. [JS Algorithms & Data Structures Projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects)
 
+### Other Concept Videos
+Besides the concepts I had learned from the certifications I have done in JS and ReactJS, I taught myself more stuff by watching course videos, taking notes, and doing tons of practice problems. Some of the concepts I touched on are:
+1. [Data Structures and Algorithms  - Beau Teaches Javascript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ). These videos cover the following data structures: stacks, sets, queues & priority queues, binary search tree, map vs object, hash tables, linked list, trie data structures, heap data structures, graphs, breadth-first search. 
+2. [Breadth First Search & Depth First Search](https://www.youtube.com/watch?v=pcKY4hjDrxk) 
+
 ### Cool Tools
 1. RegExr: I'll be honest, RegExp is not my favorite and is definitely something I need a refresher on from time to time. Though FCC's course included a unit on Regular Expressions, for some reason, I had trouble retaining the information so I searched for a tool that made it easier and simpler to learn and understand it. I am pleased to announce I found a super cool one called [RegExr](https://regexr.com/), made by Grant Skinner (check out his repo [here](https://github.com/gskinner/regexr/))! I strongly advise you all to check this out!
 
