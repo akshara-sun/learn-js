@@ -81,21 +81,24 @@ Pseudo code (Most optimal solution)
 */
 
 //Optimal solution 
+//Runtime - O(n)
 var isValidBST = function(root) {
     if (!root) {
         return true; 
     }
+    
 
     function helper(root, min, max) {
         if (!root) {
             return true; 
         }
-
-        if ((min !== null && root.val <= min) || (max !== null && root.val >= max)) {
+        if ((root.val <= min) || (root.val >= max)) {
             return false; 
         }
         return helper(root.left, min, root.val) && helper(root.right, root.val, max);
     }
-    return helper(root, null, null);
+    
+    return helper(root, Number.NEGATIVE_INFINITY, Number.POSITIVE_INFINITY);
+    
 };
 
