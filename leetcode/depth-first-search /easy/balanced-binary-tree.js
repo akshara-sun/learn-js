@@ -1,17 +1,9 @@
-//104.
+/* 110.
+Given a binary tree, determine if it is height-balanced.
+For this problem, a height-balanced binary tree is defined as:
+a binary tree in which the left and right subtrees of every node differ in height by no more than 1.
 
-//Given the root of a binary tree, return its maximum depth.
-//A binary tree's maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node.
-
-/**
- * Definition for a binary tree node.
- * function TreeNode(val, left, right) {
- *     this.val = (val===undefined ? 0 : val)
- *     this.left = (left===undefined ? null : left)
- *     this.right = (right===undefined ? null : right)
- * }
- */
-
+*/
  const helper = function (node) {
     if (!node) return [true, 0];
     if (!node.left && !node.right) {
@@ -45,7 +37,7 @@ var isBalanced = function(root) {
 
 
 /*
-HELPER METHOD
+HELPER METHOD - returns boolean and height
 Base cases:
 1. if tree is null, return true and 0
 2. if node is a leaf, return true and 1
