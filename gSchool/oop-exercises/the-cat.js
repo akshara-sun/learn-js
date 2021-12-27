@@ -48,7 +48,13 @@ class Cat {
 }
 
 //creating a specific cat object out of the cat class by passing in specific characteristics
-const Twix = new Cat("tired", "full", "independent", "content");
+const twix = new Cat("tired", "full", "independent", "content");
+
+//calling the different methods
+twix.sleep()
+twix.eat()
+twix.play()
+twix.pet()
 
 
 
