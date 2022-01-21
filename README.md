@@ -18,6 +18,21 @@ Here are some of the resources that I used that helped me learn, understand, and
 9. [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting)
 10. [JS Algorithms & Data Structures Projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects)
 
+### Beginner Friendly Project Ideas 
+Find my versions of these projects by clicking [here](https://github.com/akshara-sun/build-js)
+1. BookList-App 
+2. Games
+    1. Hangman 
+    2. Tic-tac-toe
+    3. Memory Game
+    4. Whack-a-mole
+    5. Connect Four 
+    6. Flappy Bird
+3. E-Commerce Site 
+4. Brochure Site 
+5. Calculator 
+6. Simple Piano 
+
 ### Other Concept Videos
 Besides the concepts I had learned from the certifications I have done in JS and ReactJS, I taught myself more stuff by watching course videos, taking notes, and doing tons of practice problems. Some of the concepts I touched on are:
 1. [Data Structures and Algorithms  - Beau Teaches Javascript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ). These videos cover the following data structures: stacks, sets, queues & priority queues, binary search tree, map vs object, hash tables, linked list, trie data structures, heap data structures, graphs, breadth-first search. 
