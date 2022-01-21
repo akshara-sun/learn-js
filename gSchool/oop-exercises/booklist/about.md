@@ -1,0 +1,2 @@
+# (The Reading List)[https://github.com/gSchool/JS-Intro-OOP-Exercises#the-reading-list]
+Though this is an exercise to practice Object Oriented Programming, I decided to build an actual app out of this using only Vanilla Javascript. Click (here)[https://codesandbox.io/s/booklist-4s2rw?file=/src/index.js] to view the source code and demo. 
