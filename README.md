@@ -1,7 +1,7 @@
 # learn-js
 
 ## What is this?
-This is a repository of some of the resources that I used that helped me learn, understand, and master Javascript. Below, I listed a table of contents in which I detail all the different concepts I learned from each of resource. I have also linked them here for your use in case you need a refresher, want to learn JS, or just wanna check it out. I will be updating this from time-to-time whenever I discover a new tool that helped me understand certain Javascript concepts. I hope this repository is helpful to you too, dear reader!
+Here are some of the resources that I used that helped me learn, understand, and master Javascript. I will be updating this from time-to-time whenever I discover a new tool that helped me understand certain Javascript concepts. Please share if this has helped you as much as it did me.
 
 ## Table Of Contents
 ### FreeCodeCamp
