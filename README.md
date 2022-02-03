@@ -39,7 +39,10 @@ Besides the concepts I had learned from the certifications I have done in JS and
 2. [Breadth First Search & Depth First Search](https://www.youtube.com/watch?v=pcKY4hjDrxk) 
 
 ### Cool Tools
-1. RegExr: I'll be honest, RegExp is not my favorite and is definitely something I need a refresher on from time to time. Though FCC's course included a unit on Regular Expressions, for some reason, I had trouble retaining the information so I searched for a tool that made it easier and simpler to learn and understand it. I am pleased to announce I found a super cool one called [RegExr](https://regexr.com/), made by Grant Skinner (check out his repo [here](https://github.com/gskinner/regexr/))! I strongly advise you all to check this out!
+1. RegExr: I'll be honest, RegExp is not my favorite and is definitely something I need a refresher on from time to time. Though FCC's course included a unit on Regular Expressions, for some reason, I had trouble retaining the information so I searched for a tool that made it easier and simpler to learn and understand it. [RegExr](https://regexr.com/), made by Grant Skinner (check out his repo [here](https://github.com/gskinner/regexr/)) is super cool! I strongly advise you all to check this out!
+2. [Big O Cheatsheet](https://www.bigocheatsheet.com/) 
+3. [JS Cheatsheet](https://htmlcheatsheet.com/js/)
+4. [ReactJS Cheatsheet](https://devhints.io/react)
 
 ### My Favorite YouTubers
 Being a visual and neurotic learner, I find video lectures and tutorials to be very effective in learning. I have listed all of my favorite YouTubers below who helped me hone in on certain concepts around which I had trouble wrapping my head.
