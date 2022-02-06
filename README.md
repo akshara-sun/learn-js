@@ -37,6 +37,7 @@ Find my versions of these projects by clicking [here](https://github.com/akshara
 Besides the concepts I had learned from the certifications I have done in JS and ReactJS, I taught myself more stuff by watching course videos, taking notes, and doing tons of practice problems. Some of the concepts I touched on are:
 1. [Data Structures and Algorithms  - Beau Teaches Javascript](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ). These videos cover the following data structures: stacks, sets, queues & priority queues, binary search tree, map vs object, hash tables, linked list, trie data structures, heap data structures, graphs, breadth-first search. 
 2. [Breadth First Search & Depth First Search](https://www.youtube.com/watch?v=pcKY4hjDrxk) 
+3. [Codevolution's React JS Tutorial](https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) - A comprehensive walk-through of everything React JS, React Render, and React Typescript. 
 
 ### Cool Tools
 1. RegExr: I'll be honest, RegExp is not my favorite and is definitely something I need a refresher on from time to time. Though FCC's course included a unit on Regular Expressions, for some reason, I had trouble retaining the information so I searched for a tool that made it easier and simpler to learn and understand it. [RegExr](https://regexr.com/), made by Grant Skinner (check out his repo [here](https://github.com/gskinner/regexr/)) is super cool! I strongly advise you all to check this out!
@@ -49,7 +50,4 @@ Being a visual and neurotic learner, I find video lectures and tutorials to be v
 1. [DevEd](https://www.youtube.com/c/DevEd)  
 2. [WebDevSimplified](https://www.youtube.com/c/WebDevSimplified)
 3. [FreeCodeCamp](https://www.youtube.com/c/Freecodecamp)
-
-
-
-
+4. [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
